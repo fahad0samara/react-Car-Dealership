@@ -3,7 +3,10 @@
 
 This is a simple car dealership web application built with React.js.
 
-## Features
+![react4](https://github.com/fahad0samara/react-Car-Dealership/assets/90055525/feef6bee-582b-4320-a68d-a39d6d4c9e11)
+
+## Features 
+
 
 - View a list of cars available for sale
 - View details of each car including model, price, and category
